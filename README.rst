@@ -1,7 +1,7 @@
 django-dbtemplates
 ==================
 
-.. image:: https://secure.travis-ci.org/eculver/django-dbtemplates.png?branch=develop
+.. image:: https://secure.travis-ci.org/eculver/django-dbtemplates.png?branch=feature/redactor-editor
     :alt: Build Status
     :target: http://travis-ci.org/eculver/django-dbtemplates
 
