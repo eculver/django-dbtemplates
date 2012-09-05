@@ -1,9 +1,9 @@
 django-dbtemplates
 ==================
 
-.. image:: https://secure.travis-ci.org/jezdez/django-dbtemplates.png?branch=develop
+.. image:: https://secure.travis-ci.org/eculver/django-dbtemplates.png?branch=develop
     :alt: Build Status
-    :target: http://travis-ci.org/jezdez/django-dbtemplates
+    :target: http://travis-ci.org/eculver/django-dbtemplates
 
 ``dbtemplates`` is a Django app that consists of two parts:
 
